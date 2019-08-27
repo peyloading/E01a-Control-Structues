@@ -2,7 +2,7 @@
 
 Let's start writing some Python code! This is the first set of exercises for MSCH-C220; they should give you the tools to build your first game.
 
-*The computers in LI 503 should have Python, VS Code, and git already installed. This information is for installing these on your own computer*
+*The computers in LI 503 should have Python, VS Code, and git already installed. These links are provided for installing those applications on your own computer:*
 
 In order to complete the exercise, you will need to do the following:
 
