@@ -1,7 +1,11 @@
 Open main1.py. Before running it, what do you expect this program to do? 
+
 I expect it to bring up a lot of things I don't know anything about
 Now right click on the window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. 
 It said the term yellow is not recognized.
+
+Now right click on the main1.py window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. 
+The beginning of the simulation began
 What do you think the program did with what you typed?
 I thought that the program would recognize Yellow as an answer to the question. 
 
@@ -24,9 +28,10 @@ It says that the answer is incorrect
 What does this tell you about "color"?
 It's looking for a really really specific answer, which makes it very annoying.
 
-
 Open main4.py. Before running it, describe how this is different than main2.py. 
 It adds that Red can also be spelled without capitalization and it will still be correct. 
+=======
+Open main4.py. Before running it, describe how this is different than main3.py. 
 What problem is this trying to solve? 
 The problem of saying an answer is wrong just because it wasn;t capitalized. 
 Run the program and answer the question. What happens if you use some other capitalization scheme (i.e., “RED” or “reD“)?
@@ -81,3 +86,18 @@ Commit your changes and push them back to the repository.
 
 Did you do the extra credit?
 Yes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
