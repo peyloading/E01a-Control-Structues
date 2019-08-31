@@ -13,7 +13,7 @@ while (color != 'red'):
     color = color.lower().strip()
     if (color == 'red'):
         print('Correct!')
-    elif (color == 'pink'):
+    elif (color == 'pink'): 
         print('Close!')
     else:
         print('Sorry, try again.')

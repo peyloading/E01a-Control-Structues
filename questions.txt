@@ -14,7 +14,6 @@ Run the program in the terminal and answer the question. Did the program do what
 No, it is still not really recognizing yellow as a color and I'm not sure if the answer the program is looking for is right or if I
 am supposed to be using the open color chart thing and use the numbers from on there...
 
-
 Open main3.py. Before running it, describe how this is different than main2.py. 
 It looks like it will give a response if you respond with a certain answer.
 What is happening on lines 11–14? 
