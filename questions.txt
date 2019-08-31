@@ -1,79 +1,80 @@
 Open main1.py. Before running it, what do you expect this program to do? 
 I expect it to bring up a lot of things I don't know anything about
 Now right click on the window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. 
-
+It said the term yellow is not recognized.
 What do you think the program did with what you typed?
-
+I thought that the program would recognize Yellow as an answer to the question. 
 
 
 Open main2.py. Before running it, describe how this is different than main1.py. 
-
+IT has another line titled print color, which I think will lead to the program understanding the color this time
 What do you think the color = input() will do? 
-
+I thought it would end up with the color being taken in by the program and a response would come out but it did not.
 Run the program in the terminal and answer the question. Did the program do what you expected?
-
+No, it is still not really recognizing yellow as a color and I'm not sure if the answer the program is looking for is right or if I
+am supposed to be using the open color chart thing and use the numbers from on there...
 
 
 Open main3.py. Before running it, describe how this is different than main2.py. 
-
+It looks like it will give a response if you respond with a certain answer.
 What is happening on lines 11–14? 
-
+There are reactions to certain inputs in the program.
 Why are lines 12 and 14 indented? 
-
+I think that it is because they are giving the program soemthing to do, since its a direct result of saying red, it goes underneath the command.
 Run the program and answer the question. What happens if you don’t capitalize Red? 
-
+It says that the answer is incorrect
 What does this tell you about "color"?
-
+It's looking for a really really specific answer, which makes it very annoying.
 
 
 Open main4.py. Before running it, describe how this is different than main2.py. 
-
+It adds that Red can also be spelled without capitalization and it will still be correct. 
 What problem is this trying to solve? 
-
+The problem of saying an answer is wrong just because it wasn;t capitalized. 
 Run the program and answer the question. What happens if you use some other capitalization scheme (i.e., “RED” or “reD“)?
-
+It says that the answer is incorrect.
 
 
 Open main5.py. What do you expect line 11 to do? 
-
+I expect that it solves the capitalization issue and lets any variation of the word work
 What problem is it trying to solve? 
-
+I think it;s trying to become more acceptable to common errors like capitalization problems.
 Run the program and answer the question. What happens if you add spaces before or after the word (i.e., “  RED  “ or “ red”)?
-
+It counts the answer as incorrect.
 
 
 Open main6.py. How is line 11 different than main5.py? 
-
+It addds .strip()
 What would you guess .strip() is doing? 
-
+I assume its going to help the issue with the spaces.
 Run the program and answer the question. Is there another way of writing “red” that will break this logic?
-
+If you break the word up by spaces like R e D it will not accept it as a real answer.
 
 
 Open main7.py. Before running this program, how do you expect this to be different than main6.py? 
-
+It looks like its adding more options than just correct and wrong.
 What is the purpose of line 11? 
-
+it sets color equal to the strip and lowercase settings so that any variation of spelling the colors and spacing will work.
 Run the program and answer the question.
-
+Done
 
 
 Open main8.py. What is the purpose of line 11? 
-
+I think maybe it changes the color of the font in the program?
 Why are lines 12–19 indented? 
-
+They are indented because without the first line there would be nothing for them to edit and have any kind of contact with. They stem from a direct relationship with the unindented lines
 Run the program. What would happen if line 12 were moved before line 11 (and no longer indented)? 
-
+I dont really understand this. Is it so that you keep playing until you get the right answer? Does it put the game on a loop until you get it right?
 Make that change and run the program again. To end any Python program, you can type ctrl-c.
-
+It almost crashed my computer by saying so many "Close!"s
 
 
 Open main9.py. What is happening on line 12? 
-
+In line 12 it has the part that loops the game to where if you get an incorrect input it lets you try again.
 What is the purpose of “count”? 
-
+It tells you how many times it took to guess the correct answer.
 What is happening on line 22? 
-
+It tells you how many tries it took to guess the correct answer.
 Run the program.
 
 
@@ -82,3 +83,4 @@ Run the program.
 Commit your changes and push them back to the repository. 
 
 Did you do the extra credit?
+I attempted it.
