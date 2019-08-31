@@ -25,6 +25,6 @@ while (play_again != 'n' and play_again != 'no'): #descibes whats going on in th
     print('\nYou guessed it in {0} tries!'.format(count))  #tells the system to display the you guessed it in X ammount of tries message
     if (count < best_count):     #this ties in to past rounds, if the number of guesses was less than the lasyt round there will be a message for it
         print('This was your best guess so far!')     #this is the message that displays if there is a best guess
-        best_count = count          #this is what tells the system what the meaning of best guess is
+        best_count = count         #this is what tells the system what the meaning of best guess is
     play_again = input("\nWould you like to play again? ").lower().strip()          #after the round there will be a message for playing again
 print('Thanks for playing!')     #if you answer no or n the game will display a thank you message 

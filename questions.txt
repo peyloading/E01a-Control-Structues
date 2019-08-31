@@ -5,7 +5,6 @@ It said the term yellow is not recognized.
 What do you think the program did with what you typed?
 I thought that the program would recognize Yellow as an answer to the question. 
 
-
 Open main2.py. Before running it, describe how this is different than main1.py. 
 IT has another line titled print color, which I think will lead to the program understanding the color this time
 What do you think the color = input() will do? 
